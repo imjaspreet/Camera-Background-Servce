@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceCamera</string>
+
+    <string name="start_recording">Start Recording</string>
+    <string name="start_auto_recording">Start Auto Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="back_camera">Back Camera</string>
+    <string name="no_camera">There is no camera on this device</string>
+</resources>
